@@ -1,0 +1,51 @@
+﻿{
+"appliedForJobs": 
+{
+  "jobs": [
+    {
+      "job_ad_id": 1116,
+      "application_id": 366774,
+      "job_name": "HR & Löneadministratör med SAP-kompetens till ENERCON",
+      "applied_date_year": 2016,
+      "applied_date_month": 10,
+      "applied_date_day_of_month": 19,
+      "comment": null,
+      "application_state_id": 682,
+      "application_state_name": "Ansökan registrerad",
+      "application_removed": 0
+    },
+    {
+      "job_ad_id": 1063,
+      "application_id": 366773,
+      "job_name": "Plåtslagare till industri i Arendal",
+      "applied_date_year": 2016,
+      "applied_date_month": 10,
+      "applied_date_day_of_month": 19,
+      "comment": null,
+      "application_state_id": 682,
+      "application_state_name": "Ansökan registrerad",
+      "application_removed": 0
+    },
+    {
+      "job_ad_id": 1123,
+      "application_id": 366612,
+      "job_name": "Säljtrainee till världsledande medicintekniskt företag!",
+      "applied_date_year": 2016,
+      "applied_date_month": 10,
+      "applied_date_day_of_month": 17,
+      "comment": null,
+      "application_state_id": 682,
+      "application_state_name": "Ansökan registrerad",
+      "application_removed": 0
+    }
+  ],
+  "processed_ids": null,
+  "totalCount": 3,
+  "success": true,
+  "errorCode": null,
+  "errorMessage": null,
+  "errors": []
+  , 
+  "test": ["test1", "test2"]
+}
+}
