@@ -1,5 +1,5 @@
 # TransformHelpers
-Some helpers for converting csv axml to json + some bonuses
+Some helpers for converting csv and xml to json + bonus
 
 Dependencies:
 
